@@ -3,11 +3,10 @@
 In this project, I demonstrate my ability to pick up new software. I stretched myself with taking on a new way to approach programming by looking into functional programming in Erlang.
 
 This program is rather basic and provides some basic functionality of a calculator. It can add, subtract, multiply, divide, and factorials.
-{Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+My purpose for writing this is to learn Erlang and to better understand the differences between functional programming and object oriented programming by trying out a functional programming language. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ArANHjYHST4)
 
 # Development Environment
 
